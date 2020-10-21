@@ -27,6 +27,13 @@
 	font-style: normal;
 }
 
+@font-face { 
+	font-family: 'Open Sans'; 
+	font-style: black; 
+  	font-weight: 800; 
+  	src: url(https://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3SZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype'); 
+} 
+
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: "Flaticon";
