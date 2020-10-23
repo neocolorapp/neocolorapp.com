@@ -58,7 +58,7 @@ body {
 .navbar-brand {
     /*font-family: 'RM Playtime';*/
 	font-size: 40px;
-	font-weight: 500;
+	font-weight: bold/*500*/;
 	line-height: 36px;
 	padding-top: 5px;
 	padding-bottom: 0;
