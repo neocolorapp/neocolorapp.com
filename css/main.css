@@ -7,6 +7,8 @@
     font-style: normal;
 }
 
+/* Inactive */
+
 @font-face {
     font-family: 'RM Playtime';
     src: url('../fonts/RM-Playtime.eot');
@@ -54,8 +56,8 @@ body {
 }
 
 .navbar-brand {
-    font-family: 'RM Playtime';
-	font-size: 72px;
+    /*font-family: 'RM Playtime';*/
+	/*font-size: 72px;*/
 	font-weight: 500;
 	line-height: 36px;
 	padding-top: 5px;
